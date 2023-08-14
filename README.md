@@ -3,7 +3,7 @@
   <img src="https://github.com/HuyDinh-CM/Road_Accident_Dashboard/assets/132796601/b51793cd-1226-44ea-9557-d84221136d74" alt="Data Professional Survey Report">
 </div>
 
-Welcome to the Road Accidents Dashboard portfolio project. This project showcases my journey in data visualization and storytelling through Tableau. The main objective of this project was to gain hands-on experience with Tableau's features and tools while creating an insightful and informative dashboard.
+Welcome to the Road Accidents Dashboard portfolio project. This project showcases my journey in data visualization and storytelling through [Tableau](https://public.tableau.com/shared/J2RDJRTGG?:display_count=n&:origin=viz_share_link). The main objective of this project was to gain hands-on experience with Tableau's features and tools while creating an insightful and informative dashboard.
 
 ## Project Overview
 The Road Accidents Dashboard analyses and visualizes a dataset I found on YouTube. The dataset contains information about different types of accidents involving various modes of transportation. Additionally, it captures external factors and conditions contributing to these accidents. The dataset spans 2019 to 2022 and categorizes damage levels as serious, fatal, and slight.
